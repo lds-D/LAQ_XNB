@@ -1,5 +1,5 @@
 local msg = Instance.new("Message",workspace)
-msg.Text = "欢迎使用马牛逼脚本"
+msg.Text = "欢迎使用LAQ_XNB脚本"
 wait(2.5)
 msg:Destroy()
 local msg = Instance.new("Message",workspace)
