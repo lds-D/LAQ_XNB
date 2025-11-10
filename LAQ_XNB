@@ -1,39 +1,46 @@
 local msg = Instance.new("Message",workspace)
 msg.Text = "欢迎使用LAQ_XNB脚本"
-wait(2.5)
+wait(1.5)
 msg:Destroy()
 local msg = Instance.new("Message",workspace)
-msg.Text = "马牛逼脚本作者：马牛逼"
-wait(1.8)
+msg.Text = "脚本作者:LAQ_XNB"
+wait(1.5)
 msg:Destroy()
 local msg = Instance.new("Message",workspace)
-msg.Text = "发现新版本请点击《更新》"
-wait(1.8)
+msg.Text = "非自制脚本"
+wait(1.5)
 msg:Destroy()
 local msg = Instance.new("Message",workspace)
-msg.Text = "《更新》"
-wait(1.2)
+msg.Text = "禁止倒卖"
+wait(1.5)
+msg:Destroy()
 local msg = Instance.new("Message",workspace)
 msg.Text = "加载中10%"
-wait(1.0)
+wait(1.5)
+msg:Destroy()
 local msg = Instance.new("Message",workspace)
 msg.Text = "加载中30%"
-wait(1.0)
+wait(1.5)
+msg:Destroy()
 local msg = Instance.new("Message",workspace)
 msg.Text = "加载中50%"
-wait(1.0)
+wait(1.5)
+msg:Destroy()
 local msg = Instance.new("Message",workspace)
 msg.Text = "加载中80%"
-wait(1.0)
+wait(1.5)
+msg:Destroy()
 local msg = Instance.new("Message",workspace)
 msg.Text = "加载中99%"
-wait(5.0)
+wait(1.5)
+msg:Destroy()
 local msg = Instance.new("Message",workspace)
 msg.Text = "加载完毕"
-wait(1.0)
+wait(1.5)
+msg:Destroy()
 local msg = Instance.new("Message",workspace)
 msg.Text = "请您愉快的玩耍吧"
-wait(1.0)
+wait(1.5)
 msg:Destroy()
 
 local OrionLib = loadstring(game:HttpGet("https://pastebin.com/raw/FUEx0f3G"))()
